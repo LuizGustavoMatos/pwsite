@@ -1,0 +1,10 @@
+#table{
+    color: aqua;
+    border: 20px;
+}
+
+.myfont{
+    color: rgb(115, 237, 27);
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+}
